@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Sabrina
 
+---
 <p align="center">
   <img src="https://github.com/sabrinaMKE201073/sabrinaMKE201073/assets/95947484/0015d102-14da-4ed0-9989-0679a126d3a4" alt="GIF">
 </p>
@@ -20,7 +21,7 @@
   </a> </p>
 </div>
 
-
+---
 <h2> 🚀 &nbsp;Languages & Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
