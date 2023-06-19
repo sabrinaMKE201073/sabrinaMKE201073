@@ -54,12 +54,16 @@
 
 ---
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=sabrinaMKE201073&theme=algolia&show_icons=true)](https://github.com/sabrinaMKE201073) 
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=sabrinaMKE201073&theme=algolia&show_icons=true)](https://github.com/sabrinaMKE201073)
 
 [![Sabrina Razali's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sabrinaMKE201073&hide=jupyter%20notebook,typescript&theme=algolia&show_icons=true)](https://github.com/sabrinaMKE201073)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sabrinaMKE201073&theme=dark&background=000000)](https://git.io/streak-stats)
 
+</div>
 
 ---
 
