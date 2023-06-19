@@ -30,7 +30,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" alt="gimp" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="100" height="100"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="100" height="100"/>
-<i class="devicon-github-original-wordmark" style="color: blue;"></i>
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="100" height="100" class="dark-logo" />
+<style>
+.dark-logo {
+  filter: invert(1);
+}
+</style>
+
+
 </p>
