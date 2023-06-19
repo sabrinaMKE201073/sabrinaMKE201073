@@ -10,4 +10,11 @@
 - 🌱 I’m currently learning more in this area to become an Expert in these skills.
 - 📄 Know more about my experiences & expertise:
   -  https://www.linkedin.com/in/nurulsabrina1910/
-- 📫 Reach me by chatting here or through my social media 
+- 📫 Reach me by chatting here or through my social media
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+
+</p>
+
