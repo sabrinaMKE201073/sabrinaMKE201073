@@ -9,16 +9,15 @@
 - 👀 I'm interested in Machine Learning & Image Processing projects.
 - 🌱 I’m currently learning more in this area to become an Expert in these skills.
 - 📫 Reach me by:
-<p align="center">
-<div id="badges">
+<div id="badges"> <p align="center">
   <a href="https://www.linkedin.com/in/nurulsabrina1910/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/sbrina_razali">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> </p>
 </div>
-</p>
+
 
 <h2> 🚀 &nbsp;Languages & Tools</h2>
 <p align="left">
