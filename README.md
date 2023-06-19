@@ -1,5 +1,9 @@
-<div style="display: flex; justify-content: center;">
-  <h1 style="font-size: 30px;">Hi👋 Welcome to My Profile 😄</h1>
+<div style="text-align: center;">
+  <h1 style="font-size: 30px;">
+    <span style="display: inline-block; text-align: center;">
+      Hi👋 Welcome to My Profile 😄
+    </span>
+  </h1>
 </div>
 
 ---
