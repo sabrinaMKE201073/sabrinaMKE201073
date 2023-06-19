@@ -21,6 +21,13 @@
 </div>
 
 
+---
+
+### :fire: My Stats :
+<p align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sabrinaMKE201073&theme=dark&background=000000)](https://git.io/streak-stats)
+</p>
+
 
 
 <h2> 🚀 &nbsp;Languages & Tools</h2>
@@ -42,14 +49,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="60" height="60"/>
 </p>
-
-
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sabrinaMKE201073&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
