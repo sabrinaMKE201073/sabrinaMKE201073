@@ -25,7 +25,11 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=your-github-sabrinaMKE201073)
-  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-sabrinaMKE201073" alt="Profile Views" />
+</div>
+
 ---
 <h2> 🚀 &nbsp;Languages & Tools</h2>
 <p align="left">
