@@ -1,5 +1,5 @@
 <p align="center">
-### Hey there 👋, I'm Sabrina
+### Hey there 👋
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 ---
 ### About Me:
-- 🔭 I’m a recent Master's Graduate majoring in Electrical Engineering (Computer & Microelectronics) from UTM Johor.
+- 🔭 I’m Sabrina, a recent Master's Graduate majoring in Electrical Engineering (Computer & Microelectronics) from UTM Johor.
 - 👀 I'm interested in Machine Learning & Image Processing projects.
 - 🌱 I’m currently learning more in this area to become an Expert in these skills.
 - 📫 Reach me by: <div id="badges"> <p align="center">
