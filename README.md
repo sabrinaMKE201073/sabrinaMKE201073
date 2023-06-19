@@ -1,8 +1,9 @@
 ### Hi 👋, I'm Sabrina
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/sabrinaMKE201073/sabrinaMKE201073/assets/95947484/b3fc07c3-907c-4c0a-b7f4-c2988bec9be3/460/300">
+  <img width="512" height="384" src="[https://github.com/sabrinaMKE201073/sabrinaMKE201073/assets/95947484/b3fc07c3-907c-4c0a-b7f4-c2988bec9be3](https://github.com/sabrinaMKE201073/sabrinaMKE201073/assets/95947484/fd0ceea5-24a4-4843-865e-9d087a784de7)/512/384">
 </p> 
+
 
 
 - 🔭 I’m a recent Master's Graduate majoring in Electrical Engineering (Computer & Microelectronics) from UTM Johor.
