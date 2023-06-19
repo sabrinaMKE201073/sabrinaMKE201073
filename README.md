@@ -21,13 +21,6 @@
 </div>
 
 
----
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sabrinaMKE201073&theme=dark&background=000000)](https://git.io/streak-stats)
-<p align="center"></p>
-
-
-
 <h2> 🚀 &nbsp;Languages & Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
@@ -49,4 +42,10 @@
 </p>
 
 
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sabrinaMKE201073&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaMKE201073&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
