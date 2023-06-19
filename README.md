@@ -1,8 +1,7 @@
-<p align="center">
-  
-### Hi👋 Welcome to My Profile 😄
-
-</p>
+<div style="text-align: center;">
+  <h1 style="font-size: 30px;">Heading 1</h1>
+  <p style="font-size: 24px;">Hi👋 Welcome to My Profile 😄</p>
+</div>
 
 ---
 <p align="center">
