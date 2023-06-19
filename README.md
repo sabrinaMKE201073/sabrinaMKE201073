@@ -1,9 +1,6 @@
 <div style="text-align: center;">
-  <h1 style="font-size: 30px;">
-    <span style="display: inline-block; text-align: center;">
-      Hi👋 Welcome to My Profile 😄
-    </span>
-  </h1>
+  <h1 style="font-size: 30px;">Hi👋 Welcome to My Profile 😄</h1>
+  <p style="font-size: 24px;">Hi👋 Welcome to My Profile 😄</p>
 </div>
 
 ---
