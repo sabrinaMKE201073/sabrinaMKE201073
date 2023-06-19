@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <h1 style="font-size: 30px;">Hi👋 Welcome to My Profile 😄</h1>
 </div>
 
