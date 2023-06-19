@@ -59,4 +59,4 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sabrinaMKE201073&theme=algolia&show_icons=true)](https://github.com/sabrinaMKE201073) 
-[![Sabrina Razali's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sabrinaMKE201073&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/sabrinaMKE201073)
+[![Sabrina Razali's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sabrinaMKE201073&hide=jupyter%20notebook,typescript&theme=algolia&show_icons=true)](https://github.com/sabrinaMKE201073)
