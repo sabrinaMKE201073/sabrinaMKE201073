@@ -30,7 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" alt="gimp" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="100" height="100"/>
 
-<!-- Dark mode -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" alt="github" width="100" height="100">
 
 
