@@ -19,8 +19,7 @@
   - 🌱 I’m currently learning more in this area to become an Expert in these skills.
   - 🎯 My Goal is to Contribute to as many **open source project** as possible
   
-<td >
-#
+<td>
       <a href="https://app.daily.dev/Astrodevil"><img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/4963c132-13e1-49dd-9cd4-c514abbbb792" width="300" alt="Sabrina's Dev Card"/></a>
     </td>
     
