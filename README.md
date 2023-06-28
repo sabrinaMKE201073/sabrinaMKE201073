@@ -17,7 +17,8 @@
       
   - 🔭 I’m Sabrina, a recent **Master's Graduate majoring in Electrical Engineering (Computer & Microelectronics)** from UTM Johor.
   - 👀 My interest and expertise : **Machine Learning & Image Processing** projects.
-  - 🌱 I’m currently interested in **Data Analysis & Data Visualization** using **Python, Power BI and SQL** as well.
+  - 🌱 I’m currently developing my skills day by day by learning some other skills as needed by industry such as
+    **Data Analysis & Data Visualization** using **Python, Power BI and SQL**
   - 🎯 My Goal is to Contribute to as many **open source project** as possible
 <td>
       <a href="https://app.daily.dev/Astrodevil"><img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/4963c132-13e1-49dd-9cd4-c514abbbb792" width="300" alt="Sabrina's Dev Card"/></a>
