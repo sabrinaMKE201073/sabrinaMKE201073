@@ -41,7 +41,9 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-sabrinaMKE201073" alt="Profile Views" />
 </div>
 </p>
+
 ---
+
 <h2> 🚀 &nbsp;Languages & Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
