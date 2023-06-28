@@ -25,9 +25,8 @@
   </tr>
   </table>
   
-<div style="text-align: center;">
-📫 Reach me by: 
-</div>
+<p align="center">
+📫 Reach me by: <div id="badges"> <p align="center">
   <a href="https://www.linkedin.com/in/nurulsabrina1910/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -41,7 +40,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-sabrinaMKE201073" alt="Profile Views" />
 </div>
-
+</p>
 ---
 <h2> 🚀 &nbsp;Languages & Tools</h2>
 <p align="left">
