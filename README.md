@@ -45,8 +45,8 @@
 
 ---
 
+![GitHub Activity Graph](https://cdn.sabrinamke201073.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
 
-![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
 
 ---
 
