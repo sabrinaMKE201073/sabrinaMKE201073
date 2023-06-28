@@ -45,6 +45,11 @@
 
 ---
 
+
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
+
+---
+
 <h2> 🚀 &nbsp;Languages & Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
