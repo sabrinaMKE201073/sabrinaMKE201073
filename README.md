@@ -21,12 +21,11 @@
   - 🎯 My Goal is to Contribute to as many **open source project** as possible
 <td>
       <a href="https://app.daily.dev/Astrodevil"><img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/4963c132-13e1-49dd-9cd4-c514abbbb792" width="300" alt="Sabrina's Dev Card"/></a>
-    </td>
-    
+    </td>  
   </tr>
   </table>
 
-- 📫 Reach me by: <div id="badges"> <p align="center">
+📫 Reach me by: <div id="badges"> <p align="center">
   <a href="https://www.linkedin.com/in/nurulsabrina1910/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
