@@ -3,11 +3,6 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://github.com/sabrinaMKE201073/sabrinaMKE201073/assets/95947484/0015d102-14da-4ed0-9989-0679a126d3a4" alt="GIF">
-</p>
-
----
 ### About Me:
 
 <table>
@@ -80,6 +75,11 @@
 
 
 </div>
+
+---
+<p align="center">
+  <img src="https://github.com/sabrinaMKE201073/sabrinaMKE201073/assets/95947484/0015d102-14da-4ed0-9989-0679a126d3a4" alt="GIF">
+</p>
 
 ---
 
