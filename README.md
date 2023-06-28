@@ -24,8 +24,10 @@
     </td>  
   </tr>
   </table>
-
-📫 Reach me by: <div id="badges"> <p align="center">
+  
+<div style="text-align: center;">
+📫 Reach me by: 
+</div>
   <a href="https://www.linkedin.com/in/nurulsabrina1910/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
