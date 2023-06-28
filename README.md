@@ -17,7 +17,7 @@
       
   - 🔭 I’m Sabrina, a recent **Master's Graduate majoring in Electrical Engineering (Computer & Microelectronics)** from UTM Johor.
   - 👀 My interest and expertise : **Machine Learning & Image Processing** projects.
-  - 🌱 I’m currently developing my skills day by day by learning some other skills as needed by industry such as
+  - 🌱 I’m currently developing my skills by learning some other skills such as
     **Data Analysis & Data Visualization** using **Python, Power BI and SQL**
   - 🎯 My Goal is to Contribute to as many **open source project** as possible
 <td>
