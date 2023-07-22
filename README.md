@@ -19,7 +19,7 @@
   - 👀 My interest and expertise: **Machine Learning, Image Processing, Computer Vision, AI, Electrical & Electronic Engineering, Cybersecurity** roles & projects.
   - 🌱 I’m currently developing my skills by learning some other skills such as
     **Data Analysis & Data Visualization** using **Python, Power BI and SQL**
-  - 🎯 I believe 10 years from now, I will be a successful Machine Learning Engineer and able to contribute to the industry by development of many new AI technology.
+  - 🎯 I believe 10 years from now, I will be a successful Machine Learning Engineer/AI programmer/Cybersecurity Expert
 <td>
       <a href="https://app.daily.dev/Astrodevil"><img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/4963c132-13e1-49dd-9cd4-c514abbbb792" width="300" alt="Sabrina's Dev Card"/></a>
     </td>  
