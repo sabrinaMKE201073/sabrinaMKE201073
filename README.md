@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1 style="font-size: 30px;">Hi👋 Welcome to my profile 😄</h1>
+  <h1 style="font-size: 30px;">Hi👋 Welcome 😄</h1>
 </div>
 
 ---
