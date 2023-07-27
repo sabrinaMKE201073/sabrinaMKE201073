@@ -15,7 +15,7 @@
   <tr>
     <td valign="center">
       
-  - 🔭 I’m Sabrina, a recent **Master's Graduate majoring in Electrical Engineering (Computer & Microelectronics)** from UTM Johor.
+  - 🔭 I’m Sabrina, a recent **Master's Graduate majoring in Electrical Engineering (Computer & Microelectronics)** from UTM Johor, Malaysia (class of 21/23)
   - 👀 My interest and expertise: **Machine Learning, Image Processing, Computer Vision, AI, Electrical & Electronic Engineering, Cybersecurity** roles & projects.
   - 🌱 I’m currently got some other skills such as
     **Data Analysis, Data Visualization & Web development** using **Python, Power BI, Javascript, HTML, CSS and SQL**
