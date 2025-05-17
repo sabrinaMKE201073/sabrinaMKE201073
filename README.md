@@ -26,6 +26,19 @@
   </table>
   
 <p align="center">
+
+---
+
+### 📄 Featured Publication
+
+**🔹 IEEE Paper – Main Contributor**  
+**Title:** *Deep Learning Analysis Using CNN for Bird Species Classification System*  
+**Conference:** 2023 3rd International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)  
+**Publication:** [IEEE Xplore](https://ieeexplore.ieee.org/)  
+**Note:** I wrote and submitted this paper as the original first author and was the sole contributor to the research and writing. Without my consent, my lecturer assigned a master's student to present it, which unintentionally led to a change in the author order. I did not approve this change, but the paper remains entirely my work.
+
+---
+  
 📫 Reach me by: <div id="badges"> <p align="center">
   <a href="https://www.linkedin.com/in/nurulsabrina1910/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -41,6 +54,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-sabrinaMKE201073" alt="Profile Views" />
 </div>
 </p>
+
 
 ---
 
