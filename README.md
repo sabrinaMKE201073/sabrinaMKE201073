@@ -36,6 +36,11 @@
 **Conference:** 2023 3rd International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)  
 **Publication:** [IEEE Xplore – Read the Paper](https://ieeexplore.ieee.org/document/10428729)  
 
+> This paper was fully written, researched, and submitted by me as part of my postgraduate research at UTM.
+Without my knowledge or consent, a bachelor’s student (who was not involved in the work) was assigned to present it and subsequently listed as the first author. I was informed only that someone would present on my behalf—not that the authorship order would be changed.
+> Although the authorship misrepresents the true contribution, the content remains entirely my original work. I stand by the quality and impact of the research, which was successfully published on IEEE Xplore.
+
+
 ---
   
 📫 Reach me by: <div id="badges"> <p align="center">
