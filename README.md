@@ -45,9 +45,11 @@ Without my knowledge or consent, a bachelor’s student (who was not involved in
 
 ### 📊 Data Science Roadmap & Projects 2025
 
-I am actively advancing my skills toward Data Science roles through a comprehensive project series called **DSroadmap2025**.  
-Explore the roadmap, learning resources, mini-projects, and my progress here:  
-➡️ [DSroadmap2025 GitHub Repository](https://github.com/sabrinaMKE201073/DSroadmap2025)
+🚀 I'm currently on an exciting journey to become a Data Scientist — and I’ve created a special space to track my learning, projects, and progress along the way.  
+> Say hello to **DSroadmap2025**! 🎯  
+
+📚 Inside, you'll find curated learning paths, hands-on mini projects, and lots of Python-powered goodness.  
+Check it out here:  ➡️ [DSroadmap2025 GitHub Repository](https://github.com/sabrinaMKE201073/DSroadmap2025)
 
 
 ---
