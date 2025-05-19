@@ -41,6 +41,13 @@ Without my knowledge or consent, a bachelor’s student (who was not involved in
 
 > Although the authorship misrepresents the true contribution, the content remains entirely my original work. I stand by the quality and impact of the research, which was successfully published on IEEE Xplore.
 
+---
+
+### 📊 Data Science Roadmap & Projects
+
+I am currently working on my career transition to Data Science through a comprehensive project series called **DSroadmap2025**.  
+Explore the roadmap, learning resources, mini-projects, and progress here:  
+➡️ [DSroadmap2025 GitHub Repository](https://github.com/sabrinaMKE201073/DSroadmap2025)
 
 ---
   
