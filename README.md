@@ -3,12 +3,6 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/sabrinaMKE201073/sabrinaMKE201073/assets/95947484/0015d102-14da-4ed0-9989-0679a126d3a4" alt="GIF">
-</p>
-
----
 ### About Me:
 
 <table>
@@ -51,6 +45,11 @@ Without my knowledge or consent, a bachelor’s student (who was not involved in
 📚 Inside, you'll find curated learning paths, hands-on mini projects, and lots of Python-powered goodness.  
 Check it out here:  ➡️ [DSroadmap2025 GitHub Repository](https://github.com/sabrinaMKE201073/DSroadmap2025)
 
+---
+
+<p align="center">
+  <img src="https://github.com/sabrinaMKE201073/sabrinaMKE201073/assets/95947484/0015d102-14da-4ed0-9989-0679a126d3a4" alt="GIF">
+</p>
 
 ---
   
