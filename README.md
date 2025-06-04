@@ -57,14 +57,7 @@ Check it out here:  ➡️ [DSroadmap2025 GitHub Repository](https://github.com/
   <a href="https://www.linkedin.com/in/nurulsabrina1910/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/sab_nsr/?hl=en">
-    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/sbrina_razali">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> </p>
-</div>
-<div align="center">
+</div><div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-sabrinaMKE201073" alt="Profile Views" />
 </div>
 </p>
