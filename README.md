@@ -5,25 +5,9 @@
 ---
 ### 👩‍💻 About Me:
 
-<table>
-  <tr>
-    <td valign="middle">
-
 - 🔐 I'm **Sabrina**, a former **Information Security Analyst at Accenture** with experience in **data privacy, app compliance**, and **risk-based reviews**  
 - 🎓 I also hold a Master’s degree in **Electrical Engineering (Computer & Microelectronics)** from UTM (Class of 2021/2023)  
-- 👀 Passionate about **AI, Data Privacy, Machine Learning, Computer Vision**, and **Cybersecurity**  
-
-</td>
-    <td>
-      <a href="https://app.daily.dev/Astrodevil">
-        <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/4963c132-13e1-49dd-9cd4-c514abbbb792" width="300" alt="Sabrina's Dev Card"/>
-      </a>
-    </td>  
-  </tr>
-</table>
-
-<p align="center">
-
+- 👀 Passionate about **AI, Data Privacy, Machine Learning, Computer Vision**, and **Cybersecurity**
 
 ---
 
