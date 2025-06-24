@@ -3,23 +3,27 @@
 </div>
 
 ---
-### About Me:
+### 👩‍💻 About Me:
 
 <table>
   <tr>
-    <td valign="center">
-      
-  - 🔭 I'm Sabrina, a **Master’s graduate in Electrical Engineering (Computer & Microelectronics)** from UTM (Class of 21/23)  
-  - 👀 Passionate about **AI, Data Privacy, Machine Learning, Computer Vision, and Cybersecurity**
-  - 🌱 Currently upskilling in **Data Analysis**, **Visualization**, and **Web Development** using **Python, Power BI, SQL, HTML, CSS & JavaScript**
-    
-<td>
-      <a href="https://app.daily.dev/Astrodevil"><img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/4963c132-13e1-49dd-9cd4-c514abbbb792" width="300" alt="Sabrina's Dev Card"/></a>
+    <td valign="middle">
+
+- 🔐 I'm **Sabrina**, a former **Information Security Analyst at Accenture** with experience in **data privacy, app compliance**, and **risk-based reviews**  
+- 🎓 I also hold a Master’s degree in **Electrical Engineering (Computer & Microelectronics)** from UTM (Class of 2021/2023)  
+- 👀 Passionate about **AI, Data Privacy, Machine Learning, Computer Vision**, and **Cybersecurity**  
+
+</td>
+    <td>
+      <a href="https://app.daily.dev/Astrodevil">
+        <img src="https://github.com/sabrinaMKE201073/test-html-coding/assets/95947484/4963c132-13e1-49dd-9cd4-c514abbbb792" width="300" alt="Sabrina's Dev Card"/>
+      </a>
     </td>  
   </tr>
-  </table>
-  
+</table>
+
 <p align="center">
+
 
 ---
 
@@ -37,13 +41,13 @@ Without my knowledge or consent, a bachelor’s student (who was not involved in
 
 ---
 
-### 📊 Data Science Roadmap & Projects 2025
+### 📊 Data Science & AI Journey 2025
 
-🚀 I'm currently on an exciting journey to become a Data Scientist — and I’ve created a special space to track my learning, projects, and progress along the way.  
-> Say hello to **DSroadmap2025**! 🎯  
+🚀 I'm currently on a focused upskilling journey toward roles in **Data Science, AI, and Data Privacy** — and I’ve created a dedicated space to track my progress, learning, and hands-on projects.  
+> Say hello to **DSroadmap2025**! 🎯
 
-📚 Inside, you'll find curated learning paths, hands-on mini projects, and lots of Python-powered goodness.  
-Check it out here:  ➡️ [DSroadmap2025 GitHub Repository](https://github.com/sabrinaMKE201073/DSroadmap2025)
+📚 Inside, you'll find curated learning paths, exploratory notebooks, and mini-projects powered by Python, SQL, and real-world datasets.  
+Check it out here: ➡️ [DSroadmap2025 GitHub Repository](https://github.com/sabrinaMKE201073/DSroadmap2025)
 
 ---
 
