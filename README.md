@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+hi<div style="text-align: center;">
   <h1 style="font-size: 30px;">Hi👋 Welcome 😄</h1>
 </div>
 
@@ -26,10 +26,11 @@ Without my knowledge or consent, a bachelor’s student (who was not involved in
 
 ---
 
-### 📊 📈 Strengthening My Skills in Data, AI & Privacy (2025)
+### 📈 Strengthening My Skills in Data, AI & Privacy (2025)
 
-🚀 I'm currently on a focused upskilling journey toward roles in **Data Science, AI, and Data Privacy** — and I’ve created a dedicated space to track my progress, learning, and hands-on projects.  
-> Say hello to **DSroadmap2025**! 🎯
+🚀 I'm currently deepening my capabilities in **Data Science, AI, and Data Privacy**, building on prior experience in **Information Security and regulatory tech**.  
+This dedicated space — **DSroadmap2025** — documents my learning journey, skill-building, and hands-on explorations. 🎯
+
 
 📚 Inside, you'll find curated learning paths, exploratory notebooks, and mini-projects powered by Python, SQL, and real-world datasets.  
 Check it out here: ➡️ [DSroadmap2025 GitHub Repository](https://github.com/sabrinaMKE201073/DSroadmap2025)
