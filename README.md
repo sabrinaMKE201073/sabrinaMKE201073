@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <h1 style="font-size: 30px;">Hi👋 Welcome 😄</h1>
-</div>
+<h1 align="center">Hi 👋 &nbsp;Welcome 😄</h1>
 
 ---
 ### 👩‍💻 About Me
@@ -19,21 +17,21 @@
 **Conference:** 2023 3rd International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)  
 **Publication:** [IEEE Xplore – Read the Paper](https://ieeexplore.ieee.org/document/10428729)  
 
-> This paper was fully written, researched, and submitted by me as part of my postgraduate research at UTM.
-Without my knowledge or consent, a bachelor’s student (who was not involved in the work) was assigned to present it and subsequently listed as the first author. I was informed only that someone would present on my behalf—not that the authorship order would be changed.
-
-> Although the authorship misrepresents the true contribution, the content remains entirely my original work. I stand by the quality and impact of the research, which was successfully published on IEEE Xplore.
+> ⚠️ This paper reflects my original research, written and submitted during my postgraduate study. However, the authorship on IEEE does not accurately reflect the actual contribution — a presenter was assigned without my consent and listed as the first author. I stand by the quality, originality, and impact of the work
 
 ---
 
 ### 📈 Strengthening My Skills in Data, AI & Privacy (2025)
 
-🚀 I'm currently deepening my capabilities in **Data Science, AI, and Data Privacy**, building on prior experience in **Information Security and regulatory tech**.  
-This dedicated space — **DSroadmap2025** — documents my learning journey, skill-building, and hands-on explorations. 🎯
+🚀 I'm actively building expertise in **Data Science**, **Applied AI**, and **Responsible Tech**, driven by a long-term goal to contribute to meaningful, ethical AI systems.  
+This space — **DSroadmap2025** — is where I document my hands-on progress in analytics, machine learning, and real-world project development.
 
+📚 Inside, you’ll find:
+- Structured learning paths (Python, SQL, Power BI, AI foundations)  
+- Clean, focused notes and notebooks  
+- Practical mini-projects using open datasets and real business use cases
 
-📚 Inside, you'll find curated learning paths, exploratory notebooks, and mini-projects powered by Python, SQL, and real-world datasets.  
-Check it out here: ➡️ [DSroadmap2025 GitHub Repository](https://github.com/sabrinaMKE201073/DSroadmap2025)
+🔗 [Explore: DSroadmap2025 GitHub Repository](https://github.com/sabrinaMKE201073/DSroadmap2025)
 
 ---
 
