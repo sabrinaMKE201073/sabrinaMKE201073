@@ -10,20 +10,9 @@
 
 ---
 
-### 📄 Featured Publication
+### 📈 Datacamp Upskilling Journey 2025 🚀 
 
-**🔹 IEEE Paper – Main Contributor**  
-**Title:** *Deep Learning Analysis Using CNN for Bird Species Classification System*  
-**Conference:** 2023 3rd International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)  
-**Publication:** [IEEE Xplore – Read the Paper](https://ieeexplore.ieee.org/document/10428729)  
-
-> ⚠️ This paper reflects my original research, written and submitted during my postgraduate study. However, the authorship on IEEE does not accurately reflect the actual contribution — a presenter was assigned without my consent and listed as the first author. I stand by the quality, originality, and impact of the work
-
----
-
-### 📈 Strengthening My Skills in Data, AI & Privacy (2025)
-
-🚀 I'm actively building expertise in **Data Science**, **Applied AI**, and **Responsible Tech**, driven by a long-term goal to contribute to meaningful, ethical AI systems.  
+I'm actively building expertise in **Data Science**, **Applied AI**, and **Responsible Tech**, driven by a long-term goal to contribute to meaningful, ethical AI systems.  
 This space — **DSroadmap2025** — is where I document my hands-on progress in analytics, machine learning, and real-world project development.
 
 📚 Inside, you’ll find:
@@ -34,6 +23,19 @@ This space — **DSroadmap2025** — is where I document my hands-on progress in
 🔗 [Explore: DSroadmap2025 GitHub Repository](https://github.com/sabrinaMKE201073/DSroadmap2025)
 
 ---
+
+### 📄 Featured Publication
+
+**🔹 IEEE Paper – Main Contributor**  
+**Title:** *Deep Learning Analysis Using CNN for Bird Species Classification System*  
+**Conference:** 2023 3rd International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)  
+**Publication:** [IEEE Xplore – Read the Paper](https://ieeexplore.ieee.org/document/10428729)  
+
+> ⚠️ This paper reflects my original research, written and submitted during my postgraduate study. However, the authorship on IEEE does not accurately reflect the actual contribution — a presenter was assigned without my consent and listed as the first author. I stand by the quality, originality, and impact of the work
+
+
+---
+
 
 <p align="center">
   <img src="https://github.com/sabrinaMKE201073/sabrinaMKE201073/assets/95947484/0015d102-14da-4ed0-9989-0679a126d3a4" alt="GIF">
