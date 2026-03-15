@@ -3,7 +3,7 @@
 ---
 ### 👩‍💻 About Me
 
-- 🔐 I'm **Sabrina**, a former **Information Security Analyst at Accenture**, with experience in **data privacy, mobile app compliance**, and **risk-based content reviews**.
+- 🔐 I'm **Sabrina**, a **AI Ecosystem & Data Analyst at MRANTI (ex-Accenture Information Security Analyst)**, with experience in **data privacy, mobile app compliance**, and **risk-based content reviews**.
 - 🎓 I hold a Master’s degree in **Electrical Engineering (Computer & Microelectronics)** from UTM (Class of 2021/2023).
 - 🌿 After taking a short pause to recharge in early 2025, I resumed my journey with focused upskilling and portfolio-building in **AI, data analytics, and privacy-driven technologies**.
 - 👀 Passionate about **AI, Data Privacy, Machine Learning, Computer Vision**, and **Responsible Cybersecurity** — bridging innovation with ethical governance.
